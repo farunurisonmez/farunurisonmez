@@ -10,7 +10,7 @@
   <a href="http://twitter.com/farunurisonmez">
     <img src="https://img.shields.io/twitter/follow/farunurisonmez?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
-  <a href="http://youtube.com/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">
+  <a href="http://youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC7edB0EhgVO7dAVY8-NiVTA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
