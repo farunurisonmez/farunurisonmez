@@ -8,6 +8,9 @@
  <a>
     <img src="https://en.cryptobadges.io/badge/big/1MNVpuCtdYQhJcFQvUiLnjwxYd84VEPuV6?showBalance=true" />
  </a>
+ <a>
+    <img src="https://en.cryptobadges.io/badge/big/0x5d0c61e909fb416e7193aafdda3393fc87d1f2c0?showBalance=true" />
+ </a>
 </p>
 
 <p align="center">Sign up to my community <a href="http://farunurisonmez.com/newsletters">FNS Newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
