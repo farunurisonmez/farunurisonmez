@@ -3,6 +3,12 @@
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
+<h3 align="center">Would you like to donate to our community?</h3>
+<p align="center">
+ <a>
+    <img src="https://en.cryptobadges.io/badge/big/1MNVpuCtdYQhJcFQvUiLnjwxYd84VEPuV6?showBalance=true" />
+ </a>
+</p>
 
 <p align="center">Sign up to my community <a href="http://farunurisonmez.com/newsletters">FNS Newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
@@ -23,8 +29,6 @@
    <a href="http://farunurisonmez.com">
     <img src="https://img.shields.io/website?style=for-the-badge&logo=earn&label=farunurisonmez.com&down_color=lightgrey&down_message=offline&up_color=black&up_message=Blog&url=http://farunurisonmez.com" />
  </a>
-</p>
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farunurisonmez&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farunurisonmez&theme=tokyonight" />
