@@ -3,7 +3,7 @@
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
-<h3 align="center">Would you like to donate to our community?</h3>
+<h5 align="center">Would you like to donate to our community?</h5>
 <p align="center">
  <a>
     <img src="https://en.cryptobadges.io/badge/big/1MNVpuCtdYQhJcFQvUiLnjwxYd84VEPuV6?showBalance=true" />
