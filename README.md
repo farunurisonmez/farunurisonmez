@@ -16,14 +16,8 @@
 <p align="center">Sign up to my community <a href="http://farunurisonmez.com/newsletters">FNS Newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
 <p align="center">
-  <a href="http://twitter.com/farunurisonmez">
-    <img src="https://img.shields.io/twitter/follow/farunurisonmez?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
   <a href="http://youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC7edB0EhgVO7dAVY8-NiVTA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
-  </a>
-   <a href="https://www.instagram.com/farunurisonmez/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </br>
   <a href="http://farunurisonmez.github.io">
