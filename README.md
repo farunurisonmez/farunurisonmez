@@ -4,15 +4,6 @@
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
 <h5 align="center">Would you like to donate to our community?</h5>
-<p align="center">
- <a>
-    <img src="https://en.cryptobadges.io/badge/big/1MNVpuCtdYQhJcFQvUiLnjwxYd84VEPuV6?showBalance=true" />
- </a>
- <a>
-    <img src="https://en.cryptobadges.io/badge/big/0x5d0c61e909fb416e7193aafdda3393fc87d1f2c0?showBalance=true" />
- </a>
-</p>
-
 <p align="center">Sign up to my community <a href="http://farunurisonmez.com/newsletters">FNS Newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
 <p align="center">
