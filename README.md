@@ -3,15 +3,16 @@
 # My Roadmap to Becoming a Full Stack Developer: My Skill Trees
 ```mermaid
   stateDiagram-v2
-    Backend --> Languages:l
-      note left of Languages : I'm knowledgeable with backend programming languages.
-      state Languages {
+    ProgrammingLanguages: Programming Languages
+    Backend --> ProgrammingLanguages:l
+      note left of ProgrammingLanguages : I'm knowledgeable with backend programming languages.
+      state Programming ProgrammingLanguages {
         C/C++
         CSharp
         PHP
       }
     VersionControlSystems: Version Control Systems
-    Languages --> VersionControlSystems
+    ProgrammingLanguages --> VersionControlSystems
       state VersionControlSystems {
         GitHub
       }
@@ -37,6 +38,10 @@
 ```
 > - [C Developers Guide](../../../C-Developer-s-Guide)
 >   - [Beginners](../../../C-Developer-s-Guide/tree/beginners)
+
+> - [JavaScript Developers Guide](../../../JavaScript-Developer-s-Guide)
+>   - [Beginners](../../../JavaScript-Developer-s-Guide/tree/anvanced)
+
 ```mermaid
   stateDiagram-v2
     Frontend --> PWAs
@@ -71,8 +76,24 @@
         TypeScript: TypeScript
       }
 ```
+> - [TypeScript Developers Guide](../../../TypeScript-Developer-s-Guide)
+>   - [Beginners](../../../TypeScript-Developer-s-Guide/tree/beginners)
+
 > - [React Examples](../../../react-examples)
 >   - [Popup Components](/guides/content/editing-an-existing-page)
+
+```mermaid
+  stateDiagram-v2
+    SmartContracts: Smart Contracts
+    Blockchain --> SmartContracts
+    ProgrammingLanguages: Programming Languages
+    SmartContracts --> ProgrammingLanguages
+    state ProgrammingLanguages {
+        Solidity
+      }
+```
+> - [Solidity Developers Guide](../../../Solidity-Developer-s-Guide)
+>   - [Beginners](../../../Solidity-Developer-s-Guide/tree/beginners)
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
