@@ -1,5 +1,72 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://storage.googleapis.com/fns-blog/public/frontend/assets/images/page/about/banner.jpg" /></a>
+<a href="#" target="_blank"><img src="https://storage.googleapis.com/fns-blog/public/frontend/assets/images/page/about/banner.jpg" /></a>
 
+# My Roadmap to Becoming a Full Stack Developer: My Skill Trees
+```mermaid
+journey
+    title Backend
+    section Language
+      C/C++: 3: Language
+      CSharp: 3: Language
+      PHP: 3: Language
+      JavaScript: 3: Language
+      GitHub: 4: Version Control
+      JSON APIs: 5: APIs
+
+```
+```mermaid
+  stateDiagram-v2
+    Backend
+      note right of Backend
+        Backend: My Skill Trees
+      end note
+    Backend --> Languages:l
+      note left of Languages : This is the note to the left.
+      state Languages {
+        C/C++
+        CSharp
+        PHP
+      }
+    VersionControlSystems: Version Control Systems
+    Languages --> VersionControlSystems
+      state VersionControlSystems {
+        GitHub
+      }
+    RelationalDatabases: Relational Databases
+    Backend --> RelationalDatabases
+    RelationalDatabases --> APIs
+      state RelationalDatabases {
+        MySQL: MySQL
+      }
+      state APIs {
+        JSONAPIs: JSON APIs
+      }
+```
+```mermaid
+  stateDiagram-v2
+    Frontend
+      note right of Frontend
+        Frontend: My Skill Trees
+      end note
+    Frontend --> Frameworks:l
+      note left of Frameworks : This is the note to the left.
+      state Frameworks {
+        React
+      }
+    VersionControlSystems: Version Control Systems
+    Frameworks --> VersionControlSystems
+      state VersionControlSystems {
+        GitHub
+      }
+    Frontend --> APIs
+      state APIs {
+        Graphql: Graphql
+      }
+    Frameworks --> Libraries
+      state Libraries {
+        StyledComponents: Styled Components
+        note left of StyledComponents : Modern CSS
+      }
+```
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
