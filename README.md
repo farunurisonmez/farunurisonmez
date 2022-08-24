@@ -15,6 +15,11 @@
       state VersionControlSystems {
         GitHub
       }
+    Testing: Testing
+    VersionControlSystems --> Testing
+      state Testing {
+        CICD: CI / CD
+      }
     RelationalDatabases: Relational Databases
     Backend --> RelationalDatabases
     RelationalDatabases --> APIs
@@ -23,6 +28,11 @@
       }
       state APIs {
         JSONAPIs: JSON APIs
+      }
+    WebServers: Web Servers
+    Backend --> WebServers
+      state WebServers {
+        Apache
       }
 ```
 ```mermaid
