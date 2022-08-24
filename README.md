@@ -2,25 +2,9 @@
 
 # My Roadmap to Becoming a Full Stack Developer: My Skill Trees
 ```mermaid
-journey
-    title Backend
-    section Language
-      C/C++: 3: Language
-      CSharp: 3: Language
-      PHP: 3: Language
-      JavaScript: 3: Language
-      GitHub: 4: Version Control
-      JSON APIs: 5: APIs
-
-```
-```mermaid
   stateDiagram-v2
-    Backend
-      note right of Backend
-        Backend: My Skill Trees
-      end note
     Backend --> Languages:l
-      note left of Languages : This is the note to the left.
+      note left of Languages : I'm knowledgeable with backend programming languages.
       state Languages {
         C/C++
         CSharp
@@ -43,12 +27,13 @@ journey
 ```
 ```mermaid
   stateDiagram-v2
-    Frontend
-      note right of Frontend
-        Frontend: My Skill Trees
-      end note
+    Frontend --> PWAs
+      state PWAs {
+        Storage
+        Notifications
+      }
     Frontend --> Frameworks:l
-      note left of Frameworks : This is the note to the left.
+      note left of Frameworks : I'm knowledgeable with frontend frameworks.
       state Frameworks {
         React
       }
@@ -59,12 +44,19 @@ journey
       }
     Frontend --> APIs
       state APIs {
-        Graphql: Graphql
+        Graphql: GraphQL
       }
     Frameworks --> Libraries
       state Libraries {
         StyledComponents: Styled Components
-        note left of StyledComponents : Modern CSS
+        note left of StyledComponents : CSS Framework
+        Bootstrap: Bootstrap
+        note left of Bootstrap : CSS Library
+      }
+    TypeCheckers:Type Checkers
+    Frameworks --> TypeCheckers
+       state TypeCheckers {
+        TypeScript: TypeScript
       }
 ```
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
