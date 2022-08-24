@@ -35,6 +35,8 @@
         Apache
       }
 ```
+> - [C Developers Guide](../../../C-Developer-s-Guide)
+>   - [Beginners](../../../C-Developer-s-Guide/tree/beginners)
 ```mermaid
   stateDiagram-v2
     Frontend --> PWAs
@@ -69,6 +71,9 @@
         TypeScript: TypeScript
       }
 ```
+> - [React Examples](../../../react-examples)
+>   - [Popup Components](/guides/content/editing-an-existing-page)
+
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
