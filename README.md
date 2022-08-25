@@ -89,7 +89,7 @@
 >   - [Beginners](../../../TypeScript-Developer-s-Guide/tree/beginners)
 
 > - [React Examples](../../../react-examples)
->   - [Popup Components](../../../react-examples/tree/components/popup)
+>   - [Components: Popup](../../../react-examples/tree/components/popup)
 
 ```mermaid
   stateDiagram-v2
