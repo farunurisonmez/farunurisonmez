@@ -4,11 +4,11 @@
 ```mermaid
   stateDiagram-v2
     ProgrammingLanguages: Programming Languages
-    Backend --> ProgrammingLanguages:l
+    Backend --> ProgrammingLanguages
       note left of ProgrammingLanguages : I'm knowledgeable with backend programming languages.
       state Programming ProgrammingLanguages {
         C/C++
-        CSharp
+        CSharp:C#
         PHP
       }
     VersionControlSystems: Version Control Systems
@@ -25,9 +25,11 @@
     Backend --> RelationalDatabases
     RelationalDatabases --> APIs
       state RelationalDatabases {
+        MSSQL: MS SQL
         MySQL: MySQL
       }
       state APIs {
+        REST: REST
         JSONAPIs: JSON APIs
       }
     WebServers: Web Servers
@@ -35,6 +37,13 @@
       state WebServers {
         Apache
       }
+    ProgrammingLanguages --> Frameworks
+      state Frameworks {
+        Laravel:Laravel (PHP Framework)
+        CodeIgniter:CodeIgniter (PHP Framework)
+      }
+    Laravel --> JSONAPIs : I'm knowledgeable with build APIs using Laravel
+    Laravel --> MySQL : I'm knowledgeable with build laravel eloquent.
 ```
 > - [C Developers Guide](../../../C-Developer-s-Guide)
 >   - [Beginners](../../../C-Developer-s-Guide/tree/beginners)
