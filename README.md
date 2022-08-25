@@ -90,7 +90,13 @@
     SmartContracts --> ProgrammingLanguages
     state ProgrammingLanguages {
         Solidity
-      }
+    }
+    SmartContracts --> Testing
+    state Testing {
+        UnitTests: Unit Tests
+        IntegrationTests: Integration Tests
+        CodeCoverage: Code Coverage
+    }
 ```
 > - [Solidity Developers Guide](../../../Solidity-Developer-s-Guide)
 >   - [Beginners](../../../Solidity-Developer-s-Guide/tree/beginners)
