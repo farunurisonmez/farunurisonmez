@@ -58,7 +58,7 @@
         Storage
         Notifications
       }
-    Frontend --> Frameworks:l
+    Frontend --> Frameworks
       note left of Frameworks : I'm knowledgeable with frontend frameworks.
       state Frameworks {
         React
