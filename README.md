@@ -110,6 +110,10 @@
 > - [Solidity Developers Guide](../../../Solidity-Developer-s-Guide)
 >   - [Beginners](../../../Solidity-Developer-s-Guide/tree/beginners)
 
+## My Roadmap to Becoming a Full Stack Developer: My Projects
+
+> - [Laravel 9 & React & TypeScript with CRM Project](../../../fnsoftworks-web-app)
+
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
