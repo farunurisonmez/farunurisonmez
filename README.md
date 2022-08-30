@@ -75,9 +75,9 @@
     Frameworks --> Libraries
       state Libraries {
         StyledComponents: Styled Components
-        note left of StyledComponents : CSS Framework
+        note left of StyledComponents : I'm knowledgeable with css framework.
         Bootstrap: Bootstrap
-        note left of Bootstrap : CSS Library
+        note left of Bootstrap : I'm knowledgeable with css library.
       }
     TypeCheckers:Type Checkers
     Frameworks --> TypeCheckers
