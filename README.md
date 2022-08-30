@@ -113,18 +113,26 @@
 ```mermaid
   stateDiagram-v2
     OperatingSystem: Operating system
+    note left of OperatingSystem : I have experience with many operating systems.
     DevOps --> OperatingSystem
     Windows: Windows
     OperatingSystem --> Windows
+    macOS: macOS
+    OperatingSystem --> macOS
+    note left of Windows : I usually use.
+    note left of macOS : I usually use.
     Linux: Linux
     OperatingSystem --> Linux
     state Linux {
         Ubuntu: Ubuntu
+        note left of Ubuntu : I usually use ubuntu on cloud service in my projects.
         Oracle: Oracle
         KaliLinux: Kali
+        note left of KaliLinux : I have experience on kali for penetration testing.
         Debian: Debian
     }
     CloudServices: Cloud Services
+    note right of CloudServices : I have experience on Google Cloud Service and Oracle Cloud.
     Linux --> CloudServices
     Windows --> CloudServices
     state CloudServices {
