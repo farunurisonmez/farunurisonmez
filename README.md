@@ -110,6 +110,36 @@
 > - [Solidity Developers Guide](../../../Solidity-Developer-s-Guide)
 >   - [Beginners](../../../Solidity-Developer-s-Guide/tree/beginners)
 
+```mermaid
+  stateDiagram-v2
+    OperatingSystem: Operating system
+    DevOps --> OperatingSystem
+    Windows: Windows
+    OperatingSystem --> Windows
+    Linux: Linux
+    OperatingSystem --> Linux
+    state Linux {
+        Ubuntu: Ubuntu
+        Oracle: Oracle
+        KaliLinux: Kali
+        Debian: Debian
+    }
+    CloudServices: Cloud Services
+    Linux --> CloudServices
+    Windows --> CloudServices
+    state CloudServices {
+        GoogleCloud: Google Cloud Computing Services
+        OracleCloud: Oracle Cloud Infrastructure
+        AWS: Amazon Web Services
+    }
+    CloudDesignPatterns: Cloud Design Patterns
+    CloudServices --> CloudDesignPatterns
+    state CloudDesignPatterns {
+        DataManagement: DataManagement
+        Managementandmonitoring: Management and monitoring
+    }
+```
+
 ## My Roadmap to Becoming a Full Stack Developer: My Projects
 
 > - [Laravel 9 & React & TypeScript with CRM Project](../../../fnsoftworks-web-app)
