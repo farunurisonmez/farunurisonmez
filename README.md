@@ -5,11 +5,13 @@
   stateDiagram-v2
     ProgrammingLanguages: Programming Languages
     Backend --> ProgrammingLanguages
-      note left of ProgrammingLanguages : I'm knowledgeable with backend programming languages.
       state Programming ProgrammingLanguages {
         C/C++
+        note left of C/C++ : Intermediate knowledge about C/C++
         CSharp:C#
+        note left of CSharp : Intermediate knowledge about C#
         PHP
+        note left of PHP : Advanced knowledge and experiences about PHP.
       }
     VersionControlSystems: Version Control Systems
     ProgrammingLanguages --> VersionControlSystems
@@ -26,7 +28,9 @@
     RelationalDatabases --> APIs
       state RelationalDatabases {
         MSSQL: MS SQL
-        MySQL: MySQL
+        note left of MSSQL : Basic knowledge and experiences  about APIs using in MySQL.
+        MySQL: MySQL 
+        note left of MySQL : Intermediate knowledge and experiences  about APIs using in MySQL.
       }
       state APIs {
         REST: REST
@@ -36,14 +40,15 @@
     Backend --> WebServers
       state WebServers {
         Apache
+        note right of Apache : Advanced knowledge and experiences  about APIs using in MySQL.
       }
     ProgrammingLanguages --> Frameworks
       state Frameworks {
         Laravel:Laravel (PHP Framework)
         CodeIgniter:CodeIgniter (PHP Framework)
       }
-    Laravel --> JSONAPIs : I'm knowledgeable with build APIs using Laravel
-    Laravel --> MySQL : I'm knowledgeable with build laravel eloquent.
+    Laravel --> JSONAPIs : Intermediate knowledge and experiences about APIs using in Laravel.
+    Laravel --> MySQL :Intermediate knowledge and experiences about laravel eloquent.
 ```
 > - [C Developers Guide](../../../C-Developer-s-Guide)
 >   - [Beginners](../../../C-Developer-s-Guide/tree/beginners)
@@ -59,7 +64,6 @@
         Notifications
       }
     Frontend --> Frameworks
-      note left of Frameworks : I'm knowledgeable with frontend frameworks.
       state Frameworks {
         React
       }
@@ -75,9 +79,9 @@
     Frameworks --> Libraries
       state Libraries {
         StyledComponents: Styled Components
-        note left of StyledComponents : I'm knowledgeable with css framework.
+        note left of StyledComponents : Advanced knowledge and experiences css framework.
         Bootstrap: Bootstrap
-        note left of Bootstrap : I'm knowledgeable with css library.
+        note left of Bootstrap : Advanced knowledge and experiences with css library.
       }
     TypeCheckers:Type Checkers
     Frameworks --> TypeCheckers
