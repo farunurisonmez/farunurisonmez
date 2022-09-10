@@ -7,11 +7,8 @@
     Backend --> ProgrammingLanguages
       state Programming ProgrammingLanguages {
         C/C++
-        note left of C/C++ : Intermediate knowledge about C/C++
         CSharp:C#
-        note left of CSharp : Intermediate knowledge about C#
         PHP
-        note left of PHP : Advanced knowledge and experiences about PHP.
       }
     VersionControlSystems: Version Control Systems
     ProgrammingLanguages --> VersionControlSystems
@@ -28,9 +25,7 @@
     RelationalDatabases --> APIs
       state RelationalDatabases {
         MSSQL: MS SQL
-        note left of MSSQL : Basic knowledge and experiences  about APIs using in MySQL.
         MySQL: MySQL 
-        note left of MySQL : Intermediate knowledge and experiences  about APIs using in MySQL.
       }
       state APIs {
         REST: REST
@@ -40,15 +35,14 @@
     Backend --> WebServers
       state WebServers {
         Apache
-        note right of Apache : Advanced knowledge and experiences  about APIs using in MySQL.
       }
     ProgrammingLanguages --> Frameworks
       state Frameworks {
         Laravel:Laravel (PHP Framework)
         CodeIgniter:CodeIgniter (PHP Framework)
       }
-    Laravel --> JSONAPIs : Intermediate knowledge and experiences about APIs using in Laravel.
-    Laravel --> MySQL :Intermediate knowledge and experiences about laravel eloquent.
+    Laravel --> JSONAPIs
+    Laravel --> MySQL
 ```
 > - [C Developers Guide](../../../C-Developer-s-Guide)
 >   - [Beginners](../../../C-Developer-s-Guide/tree/beginners)
@@ -79,9 +73,7 @@
     Frameworks --> Libraries
       state Libraries {
         StyledComponents: Styled Components
-        note left of StyledComponents : Advanced knowledge and experiences css framework.
         Bootstrap: Bootstrap
-        note left of Bootstrap : Advanced knowledge and experiences with css library.
       }
     TypeCheckers:Type Checkers
     Frameworks --> TypeCheckers
@@ -117,7 +109,6 @@
 ```mermaid
   stateDiagram-v2
     OperatingSystem: Operating system
-    note left of OperatingSystem : I have experience with many operating systems.
     DevOps --> OperatingSystem
     Windows: Windows
     OperatingSystem --> Windows
@@ -129,14 +120,11 @@
     OperatingSystem --> Linux
     state Linux {
         Ubuntu: Ubuntu
-        note left of Ubuntu : I usually use ubuntu on cloud service in my projects.
         Oracle: Oracle
         KaliLinux: Kali
-        note left of KaliLinux : I have experience on kali for penetration testing.
         Debian: Debian
     }
     CloudServices: Cloud Services
-    note right of CloudServices : I have experience on Google Cloud Service and Oracle Cloud.
     Linux --> CloudServices
     Windows --> CloudServices
     state CloudServices {
