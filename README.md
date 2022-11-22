@@ -2,8 +2,6 @@
 
 <h3 align="center">If You Are Curious About Something About Me, <br>You Should Have A Look <a href="https://github.com/FaruNuriSonmez/FaruNuriSonmez/wiki">Here.</a></h3>
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UC7edB0EhgVO7dAVY8-NiVTA?sub_confirmation=1">YouTube channel</a></p>
-
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
 <h5 align="center">Would you like to donate to our community?</h5>
 <p align="center">Sign up to my community <a href="http://farunurisonmez.com/newsletters">FNS Newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
