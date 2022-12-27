@@ -1,5 +1,3 @@
-<a href="#" target="_blank"><img src="https://storage.googleapis.com/fns-blog/public/frontend/assets/images/page/about/banner.jpg" /></a>
-
 <h3 align="center">If You Are Curious About Something About Me, <br>You Should Have A Look <a href="https://github.com/FaruNuriSonmez/FaruNuriSonmez/wiki">Here.</a></h3>
 
 <p align="center"><b>Join our inclusive community <a href="http://community.farunurisonmez.com">FNS Community</a>!</b> Coming Soon</p>
