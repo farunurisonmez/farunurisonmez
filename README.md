@@ -10,6 +10,8 @@
 </p>
 <p align="center">
 </p>
+<h1>Languages and Tools</h1>
+
 <p align="center">
   <a href="https://roadmap.sh">
     <img width="16%" src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/logos/ts-lettermark-blue.svg" alt="roadmap.sh"/>
