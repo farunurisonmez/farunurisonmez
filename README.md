@@ -1,11 +1,6 @@
-<h3 align="center">If You Are Curious About Something About Me, <br>You Should Have A Look <a href="https://github.com/FaruNuriSonmez/FaruNuriSonmez/wiki">Here.</a></h3>
+<a href="https://biodrop.io/eddiejaoude" target="_blank"><img src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/banners/banner.jpg"/></a>
 
-<p align="center" style="
-    justify-content: center;
-    display: flex;
-    width: 100%;
-    height: 600px;
-">
+<p align="center">
   <a href="#">
     <img width="36%" src="https://api.roadmap.sh/v1-badge/tall/65300491b5d7a4eb01de02a1?variant=dark&roadmaps=backend%2Cfrontend%2Cqa%2Cai-data-scientist" alt="roadmap.sh"/>
   </a>
