@@ -16,4 +16,7 @@
   <a href="https://roadmap.sh">
     <img width="16%" src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/logos/ts-lettermark-blue.svg" alt="roadmap.sh"/>
   </a>
+  <a href="https://roadmap.sh">
+    <img width="100px" src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/logos/U_ProfileIcon_Alpha_Negative_500x500.png" alt="roadmap.sh"/>
+  </a>
 </p>
