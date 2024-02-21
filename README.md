@@ -1,4 +1,4 @@
-<a href="https://biodrop.io/eddiejaoude" target="_blank"><img src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/banners/banner.jpg"/></a>
+<a target="_blank"><img src="https://github.com/farunurisonmez/farunurisonmez/blob/main/assets/banners/banner.jpg"/></a>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faru Nuri Sönmez
 ========================================================================================================================================
 
