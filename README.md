@@ -44,3 +44,6 @@ Lead Developer & Project Manager
 
 </ul>
 
+### Projects
+
+[Custom Toast Message with Event Emitter](https://github.com/farunurisonmez/react-native-toast-message)
