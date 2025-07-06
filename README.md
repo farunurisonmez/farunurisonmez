@@ -13,6 +13,8 @@ Lead Developer & Project Manager
 * 🤝  I'm open to collaborating on Immersive Technology
 * ⚡  Bodybuilding is my biggest hobby.
 
+[![roadmap.sh](https://roadmap.sh/card/wide/65300491b5d7a4eb01de02a1?variant=dark&roadmaps=javascript%2Cfull-stack%2Cfrontend%2Cdevops)](https://roadmap.sh)
+
 ### Skills
 
 <p align="left">
